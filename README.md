@@ -11,4 +11,4 @@
 ## UML Sequence Diagram
 - [UML Sequence Diagram](https://ayeshma-nanayakkara.github.io/UML/seq.html)
 ## UML Assignment
-- [Project Report](docs/Software Engineering Assignment.pdf)
+- [Software Engineering Assignment](Software%20Engineering%20Assignment.pdf)
