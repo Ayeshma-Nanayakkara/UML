@@ -18,4 +18,4 @@
   
 ## UML Assignment
 - [UML Assignment](Assignment.pdf)
-- [UML Assignment Reschedule](Reshedule.pdf)
+- [UML Assignment Reschedule](R.pdf)
